@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas Zoser
+### Hello! My name is Lucas Zoser.
 
 
 
