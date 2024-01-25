@@ -20,7 +20,9 @@
   <img align="center" alt="Zoser-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="right" alt="squirtle" height="100" style="border-radius:50px;"         src="https://cdn.discordapp.com/attachments/458313607244152852/1015345665318064188/animesher.com_squirtle-onigiri-riceball-1658740.gif">
 </div>
-
+ 
+ ##
+ ![Zoser](https://github-readme-stats.vercel.app/api?username=Zosin0&show_icons=true&theme=tokyonightmerko)
  ##
 
 <div> 
@@ -30,3 +32,4 @@
    ![Snake animation](https://github.com/Zosin0/Zosin0/blob/output/github-contribution-grid-snake.svg) 
  -->
  </div>
+
